@@ -60,7 +60,7 @@ Product Category
 These insights help businesses understand who their key customers are, what they buy, when they buy, and how much they spend, supporting more targeted strategies in marketing, pricing, and inventory planning.
     
 ## Data Visualization 
-![Table]()
+![Table](https://github.com/Ola-ykay/Retail-Sales-and-Customer-Demographics-Analysis/blob/main/table-retailSales%26Demo.png)
 
 ![Dashboard]()
 
