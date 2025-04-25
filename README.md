@@ -33,7 +33,7 @@ To develop an interactive and insightful business intelligence dashboard that re
 
  ## KPIs
 1. **Total Revenue** – Overall income from all transactions.
-2. **Number of Transactions** – Count of unique purchases.
+2. **Transaction Count** – Count of unique purchases.
 3. **Average Transaction Value (ATV)** – Mean amount spent per transaction.
 4. **Product Category** – Count of product categories
 
