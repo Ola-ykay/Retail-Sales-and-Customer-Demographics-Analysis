@@ -62,5 +62,5 @@ These insights help businesses understand who their key customers are, what they
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Retail-Sales-and-Customer-Demographics-Analysis/blob/main/table-retailSales%26Demo.png)
 
-![Dashboard]()
+![Dashboard](https://github.com/Ola-ykay/Retail-Sales-and-Customer-Demographics-Analysis/blob/main/dashboard-retailSales%26demo.png)
 
